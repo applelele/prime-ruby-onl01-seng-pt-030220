@@ -1,5 +1,5 @@
 require 'prime'
 
 def prime?(nums)
-  nums
+  nums.prime?
 end
